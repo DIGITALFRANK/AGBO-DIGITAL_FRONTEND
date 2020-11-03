@@ -1,0 +1,7 @@
+
+
+.tweets {
+    display: flex;
+    justify-content: center;
+    padding-left: 200px;
+}
